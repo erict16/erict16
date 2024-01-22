@@ -7,10 +7,9 @@
 
 
 - 🎯 Portfolio website: [Portfolio](https://erictan.dev/)
+- 🔮 Check my other works on [FrontEndMentor.io](https://www.frontendmentor.io/profile/erict16)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 
-</br>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erict16&layout=compact)](https://github.com/erict16/github-readme-stats) -->
