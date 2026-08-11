@@ -1,6 +1,3 @@
-
-![new-world-game-nature-scenery-4k-wallpaper-3840x2160-uhdpaper com-353 0_c](https://github.com/erict16/erict16/assets/83531295/64319890-df00-45ab-8263-ad182aa3c619)
-
 <!-- <h3>Hi there, I am Eric Tan 👋</h3> -->
 ### Halo, I am Eric Tan 👋
 [![Linkedin Badge](https://img.shields.io/badge/-helloerictan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helloerictan/)](https://www.linkedin.com/in/helloerictan/)
